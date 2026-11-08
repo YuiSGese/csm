@@ -1,0 +1,29 @@
+{
+  "bin": {
+    "csm": "bin/csm.js"
+  },
+  "description": "TUI session manager for Claude Code and Codex — list, resume, rename, pin and safely delete sessions, one project at a time",
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "claude-code",
+    "claude",
+    "codex",
+    "cli",
+    "tui",
+    "session-manager",
+    "terminal"
+  ],
+  "license": "MIT",
+  "name": "csm-claude-sessions",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuiSGese/csm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YuiSGese/csm/issues"
+  },
+  "homepage": "https://github.com/YuiSGese/csm#readme"
+}
