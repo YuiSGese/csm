@@ -1,6 +1,8 @@
 #!/usr/bin/env node
 /*
- * csm — AI Session Manager (MVP)
+ * csm — AI Session Manager
+ * Source: https://github.com/YuiSGese/csm
+ * (c) 2026 Yui Le — MIT License
  *
  * Manages the coding-AI sessions of ONE project folder at a time (the folder
  * csm is started in): list, resume, rename, delete, pin to top.
